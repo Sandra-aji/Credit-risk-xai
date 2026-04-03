@@ -22,3 +22,6 @@ This project predicts loan default risk using machine learning models on the Ger
 
 ## Dataset
 German Credit (Statlog) dataset
+
+
+Note: Some SHAP visualizations may not render on GitHub due to JavaScript limitations. Please run the notebook locally or in Google Colab for full interactive output.
