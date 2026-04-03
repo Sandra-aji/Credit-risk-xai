@@ -2,6 +2,14 @@
 
 This project predicts loan default risk using machine learning models on the German Credit (Statlog) dataset.
 
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SHAP
+  
 ## Key Steps
 - Performed data preprocessing, feature engineering, and exploratory data analysis (EDA)
 - Trained models: Logistic Regression, Decision Tree, XGBoost
